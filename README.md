@@ -4,7 +4,18 @@ Welcome to The Very Enchanting Tree House.
 
 An ancient tree on the Paleto Bay coast, about 34 m tall. A spiral stair climbs inside its hollow trunk to rooms built in the branches, linked by plank bridges and two open terraces, with a stone path leading up to the door.
 
-## Features
+![](images/1.png)
+
+## Download
+
+Hit **Code → Download ZIP** at the top of this page, or grab it from **GitHub:** https://github.com/OlentrixAssets/the_enchanted_treehouse
+
+> [!TIP]
+> No framework, no database, no scripts. Just a tree.
+
+<details>
+<summary><b>Features</b></summary>
+
 - Walkable spiral stair inside the trunk
 - Living room, kitchen, bedroom and reading nook, all furnished
 - Two terraces, linked by plank bridges
@@ -16,8 +27,20 @@ An ancient tree on the Paleto Bay coast, about 34 m tall. A spiral stair climbs 
 /tp 3406.36, 5505.72, 25.41
 ```
 
-## Preview
-![](images/1.png)
+</details>
+
+<details>
+<summary><b>Installation</b></summary>
+
+It's literally like every other FiveM map resource. Drop it into your standalone resources folder, add `ensure olentrix_assets_the_enchanted_treehouse` to your server.cfg, and restart your server.
+
+Congratulations, you've successfully installed a tree.
+
+</details>
+
+<details>
+<summary><b>Preview</b></summary>
+
 ![](images/2.png)
 ![](images/3.png)
 ![](images/4.png)
@@ -30,19 +53,21 @@ An ancient tree on the Paleto Bay coast, about 34 m tall. A spiral stair climbs 
 ![](images/11.png)
 ![](images/12.png)
 
-## Download
-**GitHub:** https://github.com/OlentrixAssets/the_enchanted_treehouse
+</details>
 
-## Installation
-It's literally like every other FiveM map resource. Drop it into your standalone resources folder, add `ensure olentrix_assets_the_enchanted_treehouse` to your server.cfg, and restart your server.
+<details>
+<summary><b>Textures</b></summary>
 
-Congratulations, you've successfully installed a tree.
-
-## Textures
 All textures are conveniently packed into YTD files, making them easy to modify, customize, or completely ruin with your own questionable decisions.
 
-## License
+</details>
+
+<details>
+<summary><b>License</b></summary>
+
 Free to use and edit on your own server. No resale, re-uploading, or sharing.
+
+</details>
 
 Remember, don't run with scissors, don't play in traffic, and for the love of everything holy, stop asking why your map isn't working when you forgot to ensure the resource.
 
