@@ -13,6 +13,9 @@ Hit **Code → Download ZIP** at the top of this page, or grab it from **GitHub:
 > [!TIP]
 > No framework, no database, no scripts. Just a tree.
 
+
+**Questions, bugs, screenshots?** Come say hi on [Discord](https://discord.gg/FTZTtQRsfR).
+
 <details>
 <summary><b>Features</b></summary>
 
