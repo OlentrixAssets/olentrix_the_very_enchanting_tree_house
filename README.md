@@ -8,7 +8,7 @@ An ancient tree on the Paleto Bay coast, about 34 m tall. A spiral stair climbs 
 
 ## Download
 
-Hit **Code → Download ZIP** at the top of this page, or grab it from **GitHub:** https://github.com/OlentrixAssets/the_enchanted_treehouse
+Hit **Code → Download ZIP** at the top of this page, or grab it from **GitHub:** https://github.com/OlentrixAssets/olentrix_the_very_enchanting_tree_house
 
 > [!TIP]
 > No framework, no database, no scripts. Just a tree.
